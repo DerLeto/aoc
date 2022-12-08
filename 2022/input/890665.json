@@ -1,0 +1,176 @@
+{
+  "owner_id": 890665,
+  "members": {
+    "1888307": {
+      "name": "DerLeto",
+      "local_score": 8,
+      "global_score": 0,
+      "id": 1888307,
+      "completion_day_level": {
+        "2": {
+          "2": {
+            "star_index": 1064027,
+            "get_star_ts": 1670191667
+          },
+          "1": {
+            "star_index": 1062426,
+            "get_star_ts": 1670191116
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": 1669885371,
+            "star_index": 26685
+          },
+          "2": {
+            "get_star_ts": 1669886298,
+            "star_index": 30593
+          }
+        },
+        "3": {
+          "2": {
+            "star_index": 1070621,
+            "get_star_ts": 1670194195
+          },
+          "1": {
+            "star_index": 1067877,
+            "get_star_ts": 1670193094
+          }
+        }
+      },
+      "stars": 6,
+      "last_star_ts": 1670194195
+    },
+    "1659750": {
+      "last_star_ts": 1670134010,
+      "completion_day_level": {
+        "4": {
+          "2": {
+            "star_index": 844366,
+            "get_star_ts": 1670134010
+          },
+          "1": {
+            "star_index": 842845,
+            "get_star_ts": 1670133641
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1670062546,
+            "star_index": 626459
+          },
+          "2": {
+            "star_index": 630192,
+            "get_star_ts": 1670063429
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": 1669881540,
+            "star_index": 11313
+          },
+          "2": {
+            "star_index": 11800,
+            "get_star_ts": 1669881671
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": 1669969911,
+            "star_index": 308207
+          },
+          "1": {
+            "get_star_ts": 1669969241,
+            "star_index": 304326
+          }
+        }
+      },
+      "stars": 8,
+      "local_score": 23,
+      "global_score": 0,
+      "id": 1659750,
+      "name": "Drvoo"
+    },
+    "890665": {
+      "name": "PartickeFl",
+      "local_score": 30,
+      "global_score": 0,
+      "id": 890665,
+      "completion_day_level": {
+        "3": {
+          "2": {
+            "star_index": 580896,
+            "get_star_ts": 1670050258
+          },
+          "1": {
+            "get_star_ts": 1670049578,
+            "star_index": 578644
+          }
+        },
+        "4": {
+          "1": {
+            "star_index": 874456,
+            "get_star_ts": 1670142678
+          },
+          "2": {
+            "star_index": 876871,
+            "get_star_ts": 1670143287
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": 1669964820,
+            "star_index": 281949
+          },
+          "1": {
+            "star_index": 277131,
+            "get_star_ts": 1669963718
+          }
+        },
+        "1": {
+          "1": {
+            "star_index": 0,
+            "get_star_ts": 1669878171
+          },
+          "2": {
+            "star_index": 1889,
+            "get_star_ts": 1669878804
+          }
+        }
+      },
+      "stars": 8,
+      "last_star_ts": 1670143287
+    },
+    "2366009": {
+      "name": "razulok",
+      "global_score": 0,
+      "local_score": 11,
+      "id": 2366009,
+      "completion_day_level": {
+        "2": {
+          "1": {
+            "star_index": 281655,
+            "get_star_ts": 1669964755
+          },
+          "2": {
+            "star_index": 287016,
+            "get_star_ts": 1669965922
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": 1669880196,
+            "star_index": 6453
+          },
+          "2": {
+            "get_star_ts": 1669882365,
+            "star_index": 14285
+          }
+        }
+      },
+      "stars": 4,
+      "last_star_ts": 1669965922
+    }
+  },
+  "event": "2022"
+}
